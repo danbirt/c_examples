@@ -32,7 +32,7 @@ void printarray(int n, int a[n]) {
 }
 
 int main(void) {
-    int limit = 6;
+    int limit = 3;
     int *a;
     int k;
     // Print 7 permutations
